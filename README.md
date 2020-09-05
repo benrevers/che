@@ -1,1 +1,2 @@
 #Che.py - The business search tool
+I originally wrote this in response to a call from the Planet Sub owners for a guerllia marketing campaign against all local business. All GM's were to call local businesses and pitch our catering services, hoping to score more large catering contracts. The only problem was nobody had a good solution for who to call and how to approach the sale except for "opening up a phonebook and choosing at random".
